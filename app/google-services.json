@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "360124316411",
+    "project_id": "clevertap-onboarding-projects",
+    "storage_bucket": "clevertap-onboarding-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360124316411:android:22edd3794c5360f9c78e5e",
+        "android_client_info": {
+          "package_name": "com.harshitha.rudderstackandroidsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360124316411-8q3jf50b1cmoo1shgtnclhc50sul84ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90mlwjGsWjvQNY9uvZYCWaJTUe0bvVdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360124316411-8q3jf50b1cmoo1shgtnclhc50sul84ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360124316411:android:8d2d4006f6e56838c78e5e",
+        "android_client_info": {
+          "package_name": "com.reactnct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360124316411-8q3jf50b1cmoo1shgtnclhc50sul84ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90mlwjGsWjvQNY9uvZYCWaJTUe0bvVdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360124316411-8q3jf50b1cmoo1shgtnclhc50sul84ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
