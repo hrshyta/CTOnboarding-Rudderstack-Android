@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
         crudderClient.track(
                 "Product Clicked", new RudderProperty().putValue("product_id", "product_001")
         );
-        Toast.makeText(getApplicationContext(), "Event Pushed", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "Test Event", Toast.LENGTH_LONG).show();
     }
 
     private void orderCompletedEvent() {
