@@ -1,1 +1,1 @@
-# CTOnboarding-Rudderstack-Android
+CleverTap - Rudderstack Integration Reference App
